@@ -50,7 +50,7 @@ assets:
 
 ## UI Preview
 
-<img src="assets/flutter-logo.svg" width="120" />
+<img src="assets/ui.png" width="120" />
 
 ## Example Usage
 
